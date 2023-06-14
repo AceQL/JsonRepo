@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "first name": "Dhanesh",
+    "last name": "Nambiyar",
+    "city": "Karad"
+  },
+  {
+    "id": 2,
+    "first name": "Satish",
+    "last name": "Doke",
+    "city": "Satara"
+  },
+  {
+    "id": 3,
+    "first name": "Farukh",
+    "last name": "Tamboli",
+    "city": "Akluj"
+  },
+  {
+    "id": 4,
+    "first name": "Vivek",
+    "last name": "Gurav",
+    "city": "Pune"
+  },
+  {
+    "id": 5,
+    "first name": "Amit",
+    "last name": "Kumbhar",
+    "city": "Bengaluru"
+  },
+  {
+    "id": 6,
+    "first name": "Sandip",
+    "last name": "Khaimode",
+    "city": "Mumbai"
+  }
+]

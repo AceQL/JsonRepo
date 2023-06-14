@@ -1,0 +1,19 @@
+#
+
+https://gorest.co.in/
+
+POST /public/v2/users	Create a new user
+GET /public/v2/users/1547	Get user details
+PUT|PATCH /public/v2/users/1547	Update user details
+DELETE /public/v2/users/1547	Delete user
+
+Primary Token	510e9e7beccd12aba62f16ac8934fcff3a2d119475fd6c1a6bdee1704965e288
+
+
+{
+    "id": 1547,
+    "name": "Chidambar Patel",
+    "email": "patel_chidambar@swaniawski.name",
+    "gender": "male",
+    "status": "inactive"
+}

@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fname": "Dhanesh",
+      "lname": "Nambiyar",
+      "city": "Karad"
+    },
+    {
+      "id": 2,
+      "fname": "Satish",
+      "lname": "Doke",
+      "city": "Satara"
+    },
+    {
+      "id": 3,
+      "fname": "Farukh",
+      "lname": "Tamboli",
+      "city": "Akluj"
+    },
+    {
+      "id": 4,
+      "fname": "Vivek",
+      "lname": "Gurav",
+      "city": "Pune"
+    },
+    {
+      "id": 5,
+      "fname": "Amit",
+      "lname": "Kumbhar",
+      "city": "Bengaluru"
+    },
+    {
+      "id": 6,
+      "fname": "Sandip",
+      "lname": "Khaimode",
+      "city": "Mumbai"
+    },
+    {
+      "fname": "Samu0z5nx28zg",
+      "lname": "Samu0z5nx28zg",
+      "city": "Mumbai",
+      "id": 7
+    }
+  ]
+}
